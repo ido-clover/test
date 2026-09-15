@@ -3,7 +3,7 @@ site_description: Documentation for my Backstage test component
 
 nav:
   - Overview: dan.md
-  - Getting Started: dan-king.md
+  - Getting Started: dan_king.md
 
 plugins:
   - techdocs-core
