@@ -1,10 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: User
 metadata:
-  name: test
-  annotations:
-    github.com/project-slug: ido-clover/test
+  name: ido-clover
 spec:
-  type: other
-  lifecycle: unknown
-  owner: ido-clover
+  profile:
+    displayName: Ido Clover
+    email: your-email@example.com
+  memberOf: []
