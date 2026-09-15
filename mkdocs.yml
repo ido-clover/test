@@ -2,8 +2,8 @@ site_name: Test Service
 site_description: Documentation for my Backstage test component
 
 nav:
-  - Overview: docs/dan.md
-  - Getting Started: docs/dan-king.md
+  - Overview: dan.md
+  - Getting Started: dan-king.md
 
 plugins:
   - techdocs-core
