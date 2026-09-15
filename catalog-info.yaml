@@ -4,7 +4,7 @@ metadata:
   name: test
   annotations:
     github.com/project-slug: ido-clover/test
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir: .
 spec:
   type: other
   lifecycle: unknown
