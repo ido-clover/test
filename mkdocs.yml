@@ -1,0 +1,10 @@
+site_name: Test Service
+site_description: Documentation for my Backstage test component
+
+nav:
+  - Overview: index.md
+  - Getting Started: getting-started.md
+  - Architecture: architecture.md
+
+plugins:
+  - techdocs-core
