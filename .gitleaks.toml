@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Installed dependencies and scanner internals"
+paths = ['''(^|/)node_modules/''', '''(^|/)\.git/''']
